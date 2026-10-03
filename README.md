@@ -15,7 +15,9 @@ This makes sure that everything is working correctly
 # experiments:
 
 python experiments.py
+
 python experiments.py --analyze
+
 python experiments.py --quick
 
 experiments.py runs the grid with algorithms and heuristics
